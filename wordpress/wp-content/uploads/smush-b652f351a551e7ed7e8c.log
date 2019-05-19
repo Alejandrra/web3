@@ -88,3 +88,168 @@
 [2019-05-19 15:33:22 : INFO] - Completed processing task with ID : 4, and type 'smush' 
 [2019-05-19 15:33:22 : INFO] - Successfully processed the queue (smush). A total of 1 tasks were processed. 
 [2019-05-19 15:33:22 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2019-05-19 15:44:26 : INFO] - 
+ 
+[2019-05-19 15:44:26 : INFO] - Header for logs at time:  Sun, 19 May 2019 15:44:26 +0000 on https://157.230.176.97 
+[2019-05-19 15:44:26 : INFO] - WP: 5.2 
+[2019-05-19 15:44:26 : INFO] - PHP: 7.2.18 (apache2handler, Linux d72244a00531 4.4.0-148-generic #174-Ubuntu SMP Tue May 7 12:20:14 UTC 2019 x86_64) 
+[2019-05-19 15:44:26 : INFO] - MySQL: 5.7.26 
+[2019-05-19 15:44:26 : INFO] - WPLANG: es_PE 
+[2019-05-19 15:44:26 : INFO] - Server: Apache/2.4.25 (Debian) 
+[2019-05-19 15:44:26 : INFO] - Outbound connections: N 
+[2019-05-19 15:44:26 : INFO] - safe_mode: 0 
+[2019-05-19 15:44:26 : INFO] - max_execution_time: 30 
+[2019-05-19 15:44:26 : INFO] - memory_limit: 128M (used: 4.6M | 6M) 
+[2019-05-19 15:44:26 : INFO] - multisite: N 
+[2019-05-19 15:44:26 : INFO] - openssl: OpenSSL 1.1.0j  20 Nov 2018 
+[2019-05-19 15:44:26 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2019-05-19 15:57:57 : INFO] - Re_Smush_It_Task with attachment ID : 22, autocreated on : May 19, 2019 03:57:57 
+[2019-05-19 15:59:39 : INFO] - Re_Smush_It_Task with attachment ID : 23, autocreated on : May 19, 2019 03:59:39 
+[2019-05-19 16:03:24 : INFO] - 
+ 
+[2019-05-19 16:03:24 : INFO] - Header for logs at time:  Sun, 19 May 2019 16:03:24 +0000 on https://157.230.176.97 
+[2019-05-19 16:03:24 : INFO] - WP: 5.2 
+[2019-05-19 16:03:24 : INFO] - PHP: 7.2.18 (apache2handler, Linux d72244a00531 4.4.0-148-generic #174-Ubuntu SMP Tue May 7 12:20:14 UTC 2019 x86_64) 
+[2019-05-19 16:03:24 : INFO] - MySQL: 5.7.26 
+[2019-05-19 16:03:24 : INFO] - WPLANG: es_PE 
+[2019-05-19 16:03:24 : INFO] - Server: Apache/2.4.25 (Debian) 
+[2019-05-19 16:03:24 : INFO] - Outbound connections: N 
+[2019-05-19 16:03:24 : INFO] - safe_mode: 0 
+[2019-05-19 16:03:24 : INFO] - max_execution_time: 30 
+[2019-05-19 16:03:24 : INFO] - memory_limit: 128M (used: 4.6M | 2M) 
+[2019-05-19 16:03:24 : INFO] - multisite: N 
+[2019-05-19 16:03:24 : INFO] - openssl: OpenSSL 1.1.0j  20 Nov 2018 
+[2019-05-19 16:03:24 : INFO] - A total of 2 tasks of type smush found and will be processed in this iteration 
+[2019-05-19 16:03:24 : INFO] - Re_Smush_It_Task with attachment ID : 22, autocreated on : May 19, 2019 03:57:57 
+[2019-05-19 16:03:24 : INFO] - 90 
+[2019-05-19 16:03:26 : INFO] - Backing up the original image - /var/www/html/wp-content/uploads/2019/05/html-updraft-pre-smush-original.png 
+[2019-05-19 16:03:26 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2019/05/html.png.The file was compressed from 150.11 KB to 45.75 KB saving 69.52 percent using WP-Optimize 
+[2019-05-19 16:03:26 : INFO] - Completed processing task with ID : 5, and type 'smush' 
+[2019-05-19 16:03:26 : INFO] - Re_Smush_It_Task with attachment ID : 23, autocreated on : May 19, 2019 03:59:39 
+[2019-05-19 16:03:26 : INFO] - 90 
+[2019-05-19 16:03:28 : INFO] - Backing up the original image - /var/www/html/wp-content/uploads/2019/05/cs-updraft-pre-smush-original.png 
+[2019-05-19 16:03:28 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2019/05/cs.png.The file was compressed from 249.10 KB to 67.76 KB saving 72.8 percent using WP-Optimize 
+[2019-05-19 16:03:28 : INFO] - Completed processing task with ID : 6, and type 'smush' 
+[2019-05-19 16:03:28 : INFO] - Successfully processed the queue (smush). A total of 2 tasks were processed. 
+[2019-05-19 16:03:28 : INFO] - Cleaning up tasks of type (smush). A total of 2 tasks will be deleted. 
+[2019-05-19 16:07:39 : INFO] - Re_Smush_It_Task with attachment ID : 27, autocreated on : May 19, 2019 04:07:39 
+[2019-05-19 16:13:28 : INFO] - 
+ 
+[2019-05-19 16:13:28 : INFO] - Header for logs at time:  Sun, 19 May 2019 16:13:28 +0000 on https://157.230.176.97 
+[2019-05-19 16:13:28 : INFO] - WP: 5.2 
+[2019-05-19 16:13:28 : INFO] - PHP: 7.2.18 (apache2handler, Linux d72244a00531 4.4.0-148-generic #174-Ubuntu SMP Tue May 7 12:20:14 UTC 2019 x86_64) 
+[2019-05-19 16:13:28 : INFO] - MySQL: 5.7.26 
+[2019-05-19 16:13:28 : INFO] - WPLANG: es_PE 
+[2019-05-19 16:13:28 : INFO] - Server: Apache/2.4.25 (Debian) 
+[2019-05-19 16:13:28 : INFO] - Outbound connections: N 
+[2019-05-19 16:13:28 : INFO] - safe_mode: 0 
+[2019-05-19 16:13:28 : INFO] - max_execution_time: 30 
+[2019-05-19 16:13:28 : INFO] - memory_limit: 128M (used: 4.9M | 6M) 
+[2019-05-19 16:13:28 : INFO] - multisite: N 
+[2019-05-19 16:13:28 : INFO] - openssl: OpenSSL 1.1.0j  20 Nov 2018 
+[2019-05-19 16:13:28 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2019-05-19 16:13:29 : INFO] - Re_Smush_It_Task with attachment ID : 27, autocreated on : May 19, 2019 04:07:39 
+[2019-05-19 16:13:29 : INFO] - 90 
+[2019-05-19 16:13:29 : INFO] - Backing up the original image - /var/www/html/wp-content/uploads/2019/05/images-1-updraft-pre-smush-original.jpg 
+[2019-05-19 16:13:29 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2019/05/images-1.jpg.The file was compressed from 9.01 KB to 9.01 KB saving 0 percent using WP-Optimize 
+[2019-05-19 16:13:29 : INFO] - Completed processing task with ID : 7, and type 'smush' 
+[2019-05-19 16:13:29 : INFO] - Successfully processed the queue (smush). A total of 1 tasks were processed. 
+[2019-05-19 16:13:29 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2019-05-19 16:23:35 : INFO] - 
+ 
+[2019-05-19 16:23:35 : INFO] - Header for logs at time:  Sun, 19 May 2019 16:23:35 +0000 on https://157.230.176.97 
+[2019-05-19 16:23:35 : INFO] - WP: 5.2 
+[2019-05-19 16:23:35 : INFO] - PHP: 7.2.18 (apache2handler, Linux d72244a00531 4.4.0-148-generic #174-Ubuntu SMP Tue May 7 12:20:14 UTC 2019 x86_64) 
+[2019-05-19 16:23:35 : INFO] - MySQL: 5.7.26 
+[2019-05-19 16:23:35 : INFO] - WPLANG: es_PE 
+[2019-05-19 16:23:35 : INFO] - Server: Apache/2.4.25 (Debian) 
+[2019-05-19 16:23:35 : INFO] - Outbound connections: N 
+[2019-05-19 16:23:35 : INFO] - safe_mode: 0 
+[2019-05-19 16:23:35 : INFO] - max_execution_time: 30 
+[2019-05-19 16:23:35 : INFO] - memory_limit: 128M (used: 4.9M | 6M) 
+[2019-05-19 16:23:35 : INFO] - multisite: N 
+[2019-05-19 16:23:35 : INFO] - openssl: OpenSSL 1.1.0j  20 Nov 2018 
+[2019-05-19 16:23:35 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2019-05-19 16:25:01 : INFO] - Re_Smush_It_Task with attachment ID : 29, autocreated on : May 19, 2019 04:25:01 
+[2019-05-19 16:25:20 : INFO] - Re_Smush_It_Task with attachment ID : 30, autocreated on : May 19, 2019 04:25:20 
+[2019-05-19 16:30:12 : INFO] - 
+ 
+[2019-05-19 16:30:12 : INFO] - Header for logs at time:  Sun, 19 May 2019 16:30:12 +0000 on https://157.230.176.97 
+[2019-05-19 16:30:12 : INFO] - WP: 5.2 
+[2019-05-19 16:30:12 : INFO] - PHP: 7.2.18 (apache2handler, Linux d72244a00531 4.4.0-148-generic #174-Ubuntu SMP Tue May 7 12:20:14 UTC 2019 x86_64) 
+[2019-05-19 16:30:12 : INFO] - MySQL: 5.7.26 
+[2019-05-19 16:30:12 : INFO] - WPLANG: es_PE 
+[2019-05-19 16:30:12 : INFO] - Server: Apache/2.4.25 (Debian) 
+[2019-05-19 16:30:12 : INFO] - Outbound connections: N 
+[2019-05-19 16:30:12 : INFO] - safe_mode: 0 
+[2019-05-19 16:30:12 : INFO] - max_execution_time: 30 
+[2019-05-19 16:30:12 : INFO] - memory_limit: 128M (used: 4.9M | 6M) 
+[2019-05-19 16:30:12 : INFO] - multisite: N 
+[2019-05-19 16:30:12 : INFO] - openssl: OpenSSL 1.1.0j  20 Nov 2018 
+[2019-05-19 16:30:12 : INFO] - A total of 2 tasks of type smush found and will be processed in this iteration 
+[2019-05-19 16:30:12 : INFO] - Re_Smush_It_Task with attachment ID : 29, autocreated on : May 19, 2019 04:25:01 
+[2019-05-19 16:30:12 : INFO] - 90 
+[2019-05-19 16:30:14 : INFO] - Backing up the original image - /var/www/html/wp-content/uploads/2019/05/jk-updraft-pre-smush-original.png 
+[2019-05-19 16:30:14 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2019/05/jk.png.The file was compressed from 424.12 KB to 120.83 KB saving 71.51 percent using WP-Optimize 
+[2019-05-19 16:30:14 : INFO] - Completed processing task with ID : 8, and type 'smush' 
+[2019-05-19 16:30:14 : INFO] - Re_Smush_It_Task with attachment ID : 30, autocreated on : May 19, 2019 04:25:20 
+[2019-05-19 16:30:14 : INFO] - 90 
+[2019-05-19 16:30:16 : INFO] - Backing up the original image - /var/www/html/wp-content/uploads/2019/05/hjb-updraft-pre-smush-original.png 
+[2019-05-19 16:30:16 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2019/05/hjb.png.The file was compressed from 460.63 KB to 133.98 KB saving 70.91 percent using WP-Optimize 
+[2019-05-19 16:30:16 : INFO] - Completed processing task with ID : 9, and type 'smush' 
+[2019-05-19 16:30:16 : INFO] - Successfully processed the queue (smush). A total of 2 tasks were processed. 
+[2019-05-19 16:30:16 : INFO] - Cleaning up tasks of type (smush). A total of 2 tasks will be deleted. 
+[2019-05-19 16:40:44 : INFO] - 
+ 
+[2019-05-19 16:40:44 : INFO] - Header for logs at time:  Sun, 19 May 2019 16:40:44 +0000 on http://157.230.176.97 
+[2019-05-19 16:40:44 : INFO] - WP: 5.2 
+[2019-05-19 16:40:44 : INFO] - PHP: 7.2.18 (apache2handler, Linux d72244a00531 4.4.0-148-generic #174-Ubuntu SMP Tue May 7 12:20:14 UTC 2019 x86_64) 
+[2019-05-19 16:40:44 : INFO] - MySQL: 5.7.26 
+[2019-05-19 16:40:44 : INFO] - WPLANG: es_PE 
+[2019-05-19 16:40:44 : INFO] - Server: Apache/2.4.25 (Debian) 
+[2019-05-19 16:40:44 : INFO] - Outbound connections: N 
+[2019-05-19 16:40:44 : INFO] - safe_mode: 0 
+[2019-05-19 16:40:44 : INFO] - max_execution_time: 30 
+[2019-05-19 16:40:44 : INFO] - memory_limit: 128M (used: 4.9M | 2M) 
+[2019-05-19 16:40:44 : INFO] - multisite: N 
+[2019-05-19 16:40:44 : INFO] - openssl: OpenSSL 1.1.0j  20 Nov 2018 
+[2019-05-19 16:40:44 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2019-05-19 16:51:53 : INFO] - Re_Smush_It_Task with attachment ID : 34, autocreated on : May 19, 2019 04:51:53 
+[2019-05-19 16:56:58 : INFO] - 
+ 
+[2019-05-19 16:56:58 : INFO] - Header for logs at time:  Sun, 19 May 2019 16:56:58 +0000 on https://157.230.176.97 
+[2019-05-19 16:56:58 : INFO] - WP: 5.2 
+[2019-05-19 16:56:58 : INFO] - PHP: 7.2.18 (apache2handler, Linux d72244a00531 4.4.0-148-generic #174-Ubuntu SMP Tue May 7 12:20:14 UTC 2019 x86_64) 
+[2019-05-19 16:56:58 : INFO] - MySQL: 5.7.26 
+[2019-05-19 16:56:58 : INFO] - WPLANG: es_PE 
+[2019-05-19 16:56:58 : INFO] - Server: Apache/2.4.25 (Debian) 
+[2019-05-19 16:56:58 : INFO] - Outbound connections: N 
+[2019-05-19 16:56:58 : INFO] - safe_mode: 0 
+[2019-05-19 16:56:58 : INFO] - max_execution_time: 30 
+[2019-05-19 16:56:58 : INFO] - memory_limit: 128M (used: 4.9M | 4M) 
+[2019-05-19 16:56:58 : INFO] - multisite: N 
+[2019-05-19 16:56:58 : INFO] - openssl: OpenSSL 1.1.0j  20 Nov 2018 
+[2019-05-19 16:56:58 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2019-05-19 16:56:58 : INFO] - Re_Smush_It_Task with attachment ID : 34, autocreated on : May 19, 2019 04:51:53 
+[2019-05-19 16:56:58 : INFO] - 90 
+[2019-05-19 16:57:00 : INFO] - Backing up the original image - /var/www/html/wp-content/uploads/2019/05/Capture-updraft-pre-smush-original.png 
+[2019-05-19 16:57:00 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2019/05/Capture.png.The file was compressed from 459.36 KB to 119.24 KB saving 74.04 percent using WP-Optimize 
+[2019-05-19 16:57:00 : INFO] - Completed processing task with ID : 10, and type 'smush' 
+[2019-05-19 16:57:00 : INFO] - Successfully processed the queue (smush). A total of 1 tasks were processed. 
+[2019-05-19 16:57:00 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2019-05-19 17:07:00 : INFO] - 
+ 
+[2019-05-19 17:07:00 : INFO] - Header for logs at time:  Sun, 19 May 2019 17:07:00 +0000 on https://157.230.176.97 
+[2019-05-19 17:07:00 : INFO] - WP: 5.2 
+[2019-05-19 17:07:00 : INFO] - PHP: 7.2.18 (apache2handler, Linux d72244a00531 4.4.0-148-generic #174-Ubuntu SMP Tue May 7 12:20:14 UTC 2019 x86_64) 
+[2019-05-19 17:07:00 : INFO] - MySQL: 5.7.26 
+[2019-05-19 17:07:00 : INFO] - WPLANG: es_PE 
+[2019-05-19 17:07:00 : INFO] - Server: Apache/2.4.25 (Debian) 
+[2019-05-19 17:07:00 : INFO] - Outbound connections: N 
+[2019-05-19 17:07:00 : INFO] - safe_mode: 0 
+[2019-05-19 17:07:00 : INFO] - max_execution_time: 30 
+[2019-05-19 17:07:00 : INFO] - memory_limit: 128M (used: 4.9M | 4M) 
+[2019-05-19 17:07:00 : INFO] - multisite: N 
+[2019-05-19 17:07:00 : INFO] - openssl: OpenSSL 1.1.0j  20 Nov 2018 
+[2019-05-19 17:07:00 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2019-05-19 17:16:47 : INFO] - Re_Smush_It_Task with attachment ID : 45, autocreated on : May 19, 2019 05:16:47 

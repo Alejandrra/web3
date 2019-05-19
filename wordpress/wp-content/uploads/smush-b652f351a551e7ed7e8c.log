@@ -1,0 +1,90 @@
+[2019-05-19 14:49:14 : INFO] - Re_Smush_It_Task with attachment ID : 6, autocreated on : May 19, 2019 02:49:14 
+[2019-05-19 14:54:18 : INFO] - 
+ 
+[2019-05-19 14:54:18 : INFO] - Header for logs at time:  Sun, 19 May 2019 14:54:18 +0000 on https://157.230.176.97 
+[2019-05-19 14:54:18 : INFO] - WP: 5.2 
+[2019-05-19 14:54:18 : INFO] - PHP: 7.2.18 (apache2handler, Linux d72244a00531 4.4.0-148-generic #174-Ubuntu SMP Tue May 7 12:20:14 UTC 2019 x86_64) 
+[2019-05-19 14:54:18 : INFO] - MySQL: 5.7.26 
+[2019-05-19 14:54:18 : INFO] - WPLANG: es_PE 
+[2019-05-19 14:54:18 : INFO] - Server: Apache/2.4.25 (Debian) 
+[2019-05-19 14:54:18 : INFO] - Outbound connections: N 
+[2019-05-19 14:54:18 : INFO] - safe_mode: 0 
+[2019-05-19 14:54:18 : INFO] - max_execution_time: 30 
+[2019-05-19 14:54:18 : INFO] - memory_limit: 128M (used: 4.6M | 4M) 
+[2019-05-19 14:54:18 : INFO] - multisite: N 
+[2019-05-19 14:54:18 : INFO] - openssl: OpenSSL 1.1.0j  20 Nov 2018 
+[2019-05-19 14:54:18 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2019-05-19 14:54:18 : INFO] - Re_Smush_It_Task with attachment ID : 6, autocreated on : May 19, 2019 02:49:14 
+[2019-05-19 14:54:18 : INFO] - 90 
+[2019-05-19 14:54:20 : INFO] - Backing up the original image - /var/www/html/wp-content/uploads/2019/05/siberian-husky-stone-pets-husky-cute-animals-updraft-pre-smush-original.jpg 
+[2019-05-19 14:54:20 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2019/05/siberian-husky-stone-pets-husky-cute-animals.jpg.The file was compressed from 427.31 KB to 394.33 KB saving 7.72 percent using WP-Optimize 
+[2019-05-19 14:54:20 : INFO] - Completed processing task with ID : 1, and type 'smush' 
+[2019-05-19 14:54:20 : INFO] - Successfully processed the queue (smush). A total of 1 tasks were processed. 
+[2019-05-19 14:54:20 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2019-05-19 15:00:01 : INFO] - Re_Smush_It_Task with attachment ID : 8, autocreated on : May 19, 2019 03:00:01 
+[2019-05-19 15:00:11 : INFO] - Re_Smush_It_Task with attachment ID : 9, autocreated on : May 19, 2019 03:00:11 
+[2019-05-19 15:04:21 : INFO] - 
+ 
+[2019-05-19 15:04:21 : INFO] - Header for logs at time:  Sun, 19 May 2019 15:04:21 +0000 on https://157.230.176.97 
+[2019-05-19 15:04:21 : INFO] - WP: 5.2 
+[2019-05-19 15:04:21 : INFO] - PHP: 7.2.18 (apache2handler, Linux d72244a00531 4.4.0-148-generic #174-Ubuntu SMP Tue May 7 12:20:14 UTC 2019 x86_64) 
+[2019-05-19 15:04:21 : INFO] - MySQL: 5.7.26 
+[2019-05-19 15:04:21 : INFO] - WPLANG: es_PE 
+[2019-05-19 15:04:21 : INFO] - Server: Apache/2.4.25 (Debian) 
+[2019-05-19 15:04:21 : INFO] - Outbound connections: N 
+[2019-05-19 15:04:21 : INFO] - safe_mode: 0 
+[2019-05-19 15:04:21 : INFO] - max_execution_time: 30 
+[2019-05-19 15:04:21 : INFO] - memory_limit: 128M (used: 4.6M | 4M) 
+[2019-05-19 15:04:21 : INFO] - multisite: N 
+[2019-05-19 15:04:21 : INFO] - openssl: OpenSSL 1.1.0j  20 Nov 2018 
+[2019-05-19 15:04:21 : INFO] - A total of 2 tasks of type smush found and will be processed in this iteration 
+[2019-05-19 15:04:21 : INFO] - Re_Smush_It_Task with attachment ID : 8, autocreated on : May 19, 2019 03:00:01 
+[2019-05-19 15:04:21 : INFO] - 90 
+[2019-05-19 15:04:23 : INFO] - Backing up the original image - /var/www/html/wp-content/uploads/2019/05/siberian-husky-stone-pets-husky-cute-animals-1-updraft-pre-smush-original.jpg 
+[2019-05-19 15:04:23 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2019/05/siberian-husky-stone-pets-husky-cute-animals-1.jpg.The file was compressed from 427.31 KB to 394.33 KB saving 7.72 percent using WP-Optimize 
+[2019-05-19 15:04:23 : INFO] - Completed processing task with ID : 2, and type 'smush' 
+[2019-05-19 15:04:23 : INFO] - Re_Smush_It_Task with attachment ID : 9, autocreated on : May 19, 2019 03:00:11 
+[2019-05-19 15:04:23 : INFO] - 90 
+[2019-05-19 15:04:24 : INFO] - Backing up the original image - /var/www/html/wp-content/uploads/2019/05/cropped-siberian-husky-stone-pets-husky-cute-animals-1-updraft-pre-smush-original.jpg 
+[2019-05-19 15:04:24 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2019/05/cropped-siberian-husky-stone-pets-husky-cute-animals-1.jpg.The file was compressed from 185.42 KB to 173.14 KB saving 6.62 percent using WP-Optimize 
+[2019-05-19 15:04:24 : INFO] - Completed processing task with ID : 3, and type 'smush' 
+[2019-05-19 15:04:24 : INFO] - Successfully processed the queue (smush). A total of 2 tasks were processed. 
+[2019-05-19 15:04:24 : INFO] - Cleaning up tasks of type (smush). A total of 2 tasks will be deleted. 
+[2019-05-19 15:15:46 : INFO] - 
+ 
+[2019-05-19 15:15:46 : INFO] - Header for logs at time:  Sun, 19 May 2019 15:15:46 +0000 on http://157.230.176.97 
+[2019-05-19 15:15:46 : INFO] - WP: 5.2 
+[2019-05-19 15:15:46 : INFO] - PHP: 7.2.18 (apache2handler, Linux d72244a00531 4.4.0-148-generic #174-Ubuntu SMP Tue May 7 12:20:14 UTC 2019 x86_64) 
+[2019-05-19 15:15:46 : INFO] - MySQL: 5.7.26 
+[2019-05-19 15:15:46 : INFO] - WPLANG: es_PE 
+[2019-05-19 15:15:46 : INFO] - Server: Apache/2.4.25 (Debian) 
+[2019-05-19 15:15:46 : INFO] - Outbound connections: N 
+[2019-05-19 15:15:46 : INFO] - safe_mode: 0 
+[2019-05-19 15:15:46 : INFO] - max_execution_time: 30 
+[2019-05-19 15:15:46 : INFO] - memory_limit: 128M (used: 4.6M | 2M) 
+[2019-05-19 15:15:46 : INFO] - multisite: N 
+[2019-05-19 15:15:46 : INFO] - openssl: OpenSSL 1.1.0j  20 Nov 2018 
+[2019-05-19 15:15:46 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2019-05-19 15:28:15 : INFO] - Re_Smush_It_Task with attachment ID : 18, autocreated on : May 19, 2019 03:28:15 
+[2019-05-19 15:33:21 : INFO] - 
+ 
+[2019-05-19 15:33:21 : INFO] - Header for logs at time:  Sun, 19 May 2019 15:33:21 +0000 on https://157.230.176.97 
+[2019-05-19 15:33:21 : INFO] - WP: 5.2 
+[2019-05-19 15:33:21 : INFO] - PHP: 7.2.18 (apache2handler, Linux d72244a00531 4.4.0-148-generic #174-Ubuntu SMP Tue May 7 12:20:14 UTC 2019 x86_64) 
+[2019-05-19 15:33:21 : INFO] - MySQL: 5.7.26 
+[2019-05-19 15:33:21 : INFO] - WPLANG: es_PE 
+[2019-05-19 15:33:21 : INFO] - Server: Apache/2.4.25 (Debian) 
+[2019-05-19 15:33:21 : INFO] - Outbound connections: N 
+[2019-05-19 15:33:21 : INFO] - safe_mode: 0 
+[2019-05-19 15:33:21 : INFO] - max_execution_time: 30 
+[2019-05-19 15:33:21 : INFO] - memory_limit: 128M (used: 4.6M | 2M) 
+[2019-05-19 15:33:21 : INFO] - multisite: N 
+[2019-05-19 15:33:21 : INFO] - openssl: OpenSSL 1.1.0j  20 Nov 2018 
+[2019-05-19 15:33:21 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2019-05-19 15:33:22 : INFO] - Re_Smush_It_Task with attachment ID : 18, autocreated on : May 19, 2019 03:28:15 
+[2019-05-19 15:33:22 : INFO] - 90 
+[2019-05-19 15:33:22 : INFO] - Backing up the original image - /var/www/html/wp-content/uploads/2019/05/images-updraft-pre-smush-original.jpg 
+[2019-05-19 15:33:22 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2019/05/images.jpg.The file was compressed from 6.93 KB to 6.93 KB saving 0 percent using WP-Optimize 
+[2019-05-19 15:33:22 : INFO] - Completed processing task with ID : 4, and type 'smush' 
+[2019-05-19 15:33:22 : INFO] - Successfully processed the queue (smush). A total of 1 tasks were processed. 
+[2019-05-19 15:33:22 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
